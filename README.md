@@ -1,1 +1,1 @@
-# Discord бот с RPG системой
+Discord бот с RPG системой
